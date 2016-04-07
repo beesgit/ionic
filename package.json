@@ -61,7 +61,7 @@
     "semver": "^2.2.1",
     "through": "^2.3.4",
     "winston": "^0.7.2",
-    "gulp-sass": "3.5.0",
+    "gulp-sass": "^2.3.0-beta.1",
   },
   "licenses": [
     {
